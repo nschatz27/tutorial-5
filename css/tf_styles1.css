@@ -148,11 +148,9 @@ body > footer {
 ul.submenu {
    display: none;
 }
-
 a.submenuTitle:hover+ul.submenu, ul.submenu:hover {
    display: block;
 }
-
 
 /* New Styles Added Below */
 
