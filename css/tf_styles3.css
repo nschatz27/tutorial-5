@@ -161,7 +161,6 @@ body > footer {
 /* General Flex Styles */
 
 body {
-   display: -webkit-flex;
    display: flex;
    -webkit-flex-flow: row wrap;
    flex-flow: row wrap;
@@ -246,7 +245,6 @@ body > section#main {
    /* Tablet Flex Styles */
    
    nav.horizontal ul {
-      display: -webkit-flex;
       display: flex;
       -webkit-flex-flow: row nowrap;
       flex-flow: row nowrap;
